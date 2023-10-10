@@ -1,1 +1,1 @@
-Website: https://mfaisal-khan.github.io/Spotify-Clone/
+Website: https://Spotify-Clone/
